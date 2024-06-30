@@ -1,0 +1,10 @@
+.users-container ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.users-container li {
+    cursor: pointer;
+    padding: 0.5rem;
+    border-bottom: 1px solid #ddd;
+}
